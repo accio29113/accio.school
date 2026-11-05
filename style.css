@@ -141,3 +141,4 @@ footer img{width:175px;height:90px}
 }
 .activity-link,.instructor-btn{background:linear-gradient(100deg,#f8698c,#f78e69);color:#fff}
 .exam-photo{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:16px;margin:0 0 18px}
+.access-links{grid-column:1/-1;display:flex;gap:16px;justify-content:center;align-items:center;flex-wrap:wrap;margin-top:18px}.access-links .btn{margin:0}
