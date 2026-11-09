@@ -156,3 +156,7 @@ footer img{width:175px;height:90px}
 .contact-alt h3{margin:0 0 8px}
 .contact-alt p{margin:0 0 8px}
 @media(max-width:700px){.google-contact-form{height:2250px}.contact-alt{padding:24px 18px}}
+
+/* サーティファイ告知画像：縦長ポスターを切り抜かずに表示 */
+.exam-photo-certify{aspect-ratio:auto;max-height:540px;object-fit:contain;background:#f3f6ff}
+@media(max-width:720px){.exam-photo-certify{max-height:none}}
